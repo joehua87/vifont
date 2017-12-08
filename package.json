@@ -1,0 +1,9 @@
+{
+  "name": "vifont",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": ["dist"],
+  "repository": "https://github.com/joehua87/vifont.git",
+  "author": "joehua87 <joehua87@gmail.com>",
+  "license": "MIT"
+}
